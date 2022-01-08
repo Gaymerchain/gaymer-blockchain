@@ -1,0 +1,33 @@
+# package directories
+node_modules
+jspm_packages
+
+# node debug logs
+npm-debug.log
+
+# Serverless directories
+.serverless
+
+# VS code 
+.vscode
+.webpack
+
+# env file
+.env
+
+# test files
+.nyc_output
+coverage
+test-results.xml
+temp.js
+
+package-lock.json
+dynamodb_data
+ganache_main
+ganache_priv
+
+.dynamodb
+
+# jsdoc
+out
+dist
